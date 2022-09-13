@@ -15,4 +15,4 @@ for (int i=0; i<count; i++)
 {
     Console.Write(array[i]);
 }
-Console.WriteLine();
+Console.WriteLine("");
